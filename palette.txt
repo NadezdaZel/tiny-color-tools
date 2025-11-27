@@ -1,0 +1,5 @@
+# Example palette
+#c92a2a
+#364fc7
+#2f9e44
+#f08c00
