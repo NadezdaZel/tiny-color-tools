@@ -1,0 +1,5 @@
+hex_code = input("HEX (e.g. #a1b2c3): ").lstrip("#")
+r = int(hex_code[0:2], 16)
+g = int(hex_code[2:4], 16)
+b = int(hex_code[4:6], 16)
+print((r, g, b))
